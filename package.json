@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "a node app to generate readme files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abisola-Morohunfolu/readme-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abisola-Morohunfolu/readme-generator/issues"
+  },
+  "homepage": "https://github.com/Abisola-Morohunfolu/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
